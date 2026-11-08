@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>PS4 [5.05] 7.00 - 13.52 FW GoldHEN Host by GamerHack</title>
+    <style>
+        html, body {
+            background-image: url('img.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-color: #1a1a1a;
+            color: white;
+            font-family: sans-serif;
+            text-align: center;
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .inf {
+            font-size: 24px;
+            margin-top: 15vh;
+            text-shadow: 2px 2px 4px black;
+            font-weight: bold;
+        }
+        .loader {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 30px;
+            font-weight: bold;
+            color: #00ffcc;
+            text-shadow: 2px 2px 4px black;
+        }
+        .credits {
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
+            font-size: 16px;
+            color: #ff4444;
+            text-shadow: 1px 1px 2px black;
+        }
+    </style>
+</head>
+<body>
+    <div class="inf">PS4 [5.05] 7.00 - 13.52 FW GoldHEN Host by GamerHack</div>
+    <div class="loader">Cache Installed Successfully✓</div>
+    <div class="credits">Special Thanks to: @_AlAzif ChendoChap @Kameleonre SiSTRO Abc</div>
+</body>
+</html>
