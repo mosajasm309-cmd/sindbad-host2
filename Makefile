@@ -1,5 +1,5 @@
-TARGET = stage1
-OBJS = start.o stage1.o
+TARGET = stage2
+OBJS = start.o stage2.o
 
 CC = gcc
 OBJCOPY = objcopy
